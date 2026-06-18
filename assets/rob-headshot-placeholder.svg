@@ -1,0 +1,11 @@
+<svg width="900" height="1125" viewBox="0 0 900 1125" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1125" fill="#16120d"/>
+  <circle cx="450" cy="350" r="165" fill="#7e5a3c" opacity="0.55"/>
+  <path d="M210 1010C237 767 330 646 450 646C570 646 663 767 690 1010" fill="#e9dfc8" opacity="0.10"/>
+  <path d="M120 1050C222 801 330 676 450 676C570 676 678 801 780 1050" stroke="#e9dfc8" stroke-opacity="0.36" stroke-width="2"/>
+  <circle cx="450" cy="342" r="154" stroke="#e9dfc8" stroke-opacity="0.36" stroke-width="2"/>
+  <path d="M140 140C280 62 449 58 590 128C728 196 812 323 815 472" stroke="#b2b791" stroke-opacity="0.34" stroke-width="2"/>
+  <path d="M95 952C255 1040 461 1043 630 960C753 899 829 800 851 689" stroke="#7e5a3c" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="450" y="556" text-anchor="middle" fill="#f4eddf" font-family="Georgia, serif" font-size="42" font-style="italic" letter-spacing="-2">Rob Putaro</text>
+  <text x="450" y="604" text-anchor="middle" fill="#b9a98d" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">HEADSHOT PLACEHOLDER</text>
+</svg>
