@@ -643,20 +643,3 @@ main { min-height: 100vh; }
   .hero-actions { flex-direction: column; align-items: stretch; }
   .btn { justify-content: center; }
 }
-html,
-body {
-  width: 100%;
-  max-width: 100%;
-  overflow-x: hidden;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-img,
-video,
-svg {
-  max-width: 100%;
-  height: auto;
-}
