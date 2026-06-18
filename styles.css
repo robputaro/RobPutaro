@@ -296,7 +296,7 @@ main { min-height: 100vh; }
 .portrait-card {
   position: absolute;
   right: 4%;
-  bottom: 10%;
+  bottom: 15%;
   width: min(74%, 390px);
   aspect-ratio: 4 / 5.1;
   border-radius: 46% 46% 16px 16px;
